@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">DialogBox</string>
-    <string name="button">Button</string>
+    <string name="DiBo">Dialog Box</string>
+    <string name="ToBu">Toaster</string>
 </resources>
